@@ -1,0 +1,5 @@
+cypress/reports/html/videos/*.mp4
+
+cypress/videos/*.mp4
+
+node_modules/
